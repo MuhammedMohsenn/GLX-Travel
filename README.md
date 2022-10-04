@@ -1,2 +1,2 @@
 # GLX-Travel
-Building website using React.js by following Code Commerce
+Space travel Agency website built using React.js by following Code Commerce.
